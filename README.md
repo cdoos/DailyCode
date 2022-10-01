@@ -1,6 +1,7 @@
 # DailyCode
 RESTFul service with Django for maintaining competetive atmosphere by tracking and creating ranking by rating and streak submissions on LeetCode platform.
-### Built With
+
+## Built With
 
 - [Python](https://www.python.org/) 3.6.x
 - [Django Rest Framework](http://www.django-rest-framework.org/) 3.8.x
@@ -14,7 +15,7 @@ RESTFul service with Django for maintaining competetive atmosphere by tracking a
 <li>Rating based on solved problems and streak submissions</li>
 <li>Update profiles requesting LeetCode API with given time interval</li>
 
-### Installation
+## Installation
 
 Create new directory:
 
